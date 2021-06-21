@@ -1,0 +1,4 @@
+name: Viodium
+version: ${project.version}
+main: me.pikachow.viodium.Main
+api-version: 1.17
